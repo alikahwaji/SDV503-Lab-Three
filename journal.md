@@ -1,10 +1,14 @@
-## Use the table to provide your answers for variables keywords: 
-
-|   Keyword    |  Description        | Syntax   
-|--------------|---------------------|----------
-|     var      |                     |             
-|     let      |                     |          
-|    const     |                     |          
+## Explain with examples Scopes in JavaScript.
 
 
-## What is the key difference between var let and const?
+
+
+
+
+## What is variable hoisting in JavaScript? Explain with examples.
+
+
+
+
+
+## What are the Data Types in JavaScript? And what is the difference between Primitive and Non-Primitive? Explain with examples.
