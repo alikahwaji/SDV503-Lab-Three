@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SDV503 Lab Two 👋</h1>
+<h1 align="center">Welcome to SDV503 Lab Three 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -52,29 +52,32 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Create a folder name it src and in the folder create a file index.js`
 
-:arrow_right: `Create a new branch name it dev.`
-
 :arrow_right: `Install nodemon package and make sure you installed the latest version.`
 
-:arrow_right: `In the js file declare 4 variables using let keyword.`
+:arrow_right: `Create a new branch name it dev.`
 
-:arrow_right: `Give each variable a name using camelCase style.`
+:arrow_right: `In this lab, you will create an application from scratch.`
 
-:arrow_right: `Assign a string value to each variable and they are:`
-* NMIT street address.
-* City.
-* Country.
-* Postcode.
+:arrow_right: `At line one of your index.js file provide a TODO list of your coding workflow.` (comments)
 
-:arrow_right: `Using template strings print out the the following: `
+:arrow_right: `The application is a temperature converter.`
 
-               NMIT address: 322 Hardy Street, Nelson, New Zealand, 7010
+:arrow_right: `Declare all necessary variables and assign values if needed`
 
+:arrow_right: `The application will calculate and print on the terminal screen the following instructions: `
 
+* Convert Fahrenheit to Celsius.
+* Convert Fahrenheit to Kelvin.
+* Convert Celsius to Fahrenheit.
+* Convert Celsius to Kelvin.
+* Convert Kelvin to Celsius.
+* Convert Kelvin to Fahrenheit. 
 
-:arrow_right: `In your journal file, write about var, let, and const keywords in JavaScript with examples and explain the difference between them.`
+:arrow_right: `Use let & const keywords for variable declaration.`
 
-:arrow_right: `Make sure you add, commit and push to dev branch.`
+:arrow_right: `Use if/else statements.`
+
+:arrow_right: `Use Arithmetic Operators & Logic Operators.`
 
 :arrow_right: `Merge dev branch to master.`
 
@@ -85,7 +88,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|[Template Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)|
+|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|[Temperature Conversion Formulas](https://www.thoughtco.com/temperature-conversion-formulas-609324)|
 |---|---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
